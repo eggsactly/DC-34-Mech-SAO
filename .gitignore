@@ -5,3 +5,7 @@ gerber/
 \#auto_saved_files\#
 _autosave-DC-34-Mech-SAO.kicad_sch
 *.zip
+*.png
+*.jpg
+*.jpeg
+
